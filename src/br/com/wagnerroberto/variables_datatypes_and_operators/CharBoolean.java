@@ -1,7 +1,7 @@
 package br.com.wagnerroberto.variables_datatypes_and_operators;
 
 public class CharBoolean {
-    public static void main(String[] args) {
+    public static void main(Strings[] args) {
         //width of 16(2 bytes)
         char myChar = '\u00A9';
         System.out.println("Unicode output was: "+myChar);

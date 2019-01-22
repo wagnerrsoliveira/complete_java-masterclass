@@ -2,7 +2,7 @@ package br.com.wagnerroberto.variables_datatypes_and_operators;
 
 public class FloatDouble {
 
-    public static void main(String[] args) {
+    public static void main(Strings[] args) {
 
         //width of int = 32(4 bytes).
         int myIntValue = 5/3;

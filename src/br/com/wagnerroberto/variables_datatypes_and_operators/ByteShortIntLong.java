@@ -2,7 +2,7 @@ package br.com.wagnerroberto.variables_datatypes_and_operators;
 
 public class ByteShortIntLong {
 
-    public static void main(String[] args) {
+    public static void main(Strings[] args) {
 
 	    //1. Create a byte variable and set it to any valid byte number.
         byte byteNumber = 127;
